@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/second-responsive-navbar/static/css/main.e905f141.css",
+    "main.js": "/second-responsive-navbar/static/js/main.e370f251.js",
+    "static/media/logo - Copy.jpg": "/second-responsive-navbar/static/media/logo - Copy.a0c585a942cbfd7c60ca.jpg",
+    "index.html": "/second-responsive-navbar/index.html",
+    "main.e905f141.css.map": "/second-responsive-navbar/static/css/main.e905f141.css.map",
+    "main.e370f251.js.map": "/second-responsive-navbar/static/js/main.e370f251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e905f141.css",
+    "static/js/main.e370f251.js"
+  ]
+}
